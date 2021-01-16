@@ -1,2 +1,5 @@
 # hello-world
-hello-world it`s my second repository
+
+
+Hi!
+My name Basir! I novice programmer.
